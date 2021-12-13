@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255,188,217);
+    background: radial-gradient(circle, rgba(255,188,217,1) 0%, rgba(148,187,233,1) 100%);
+}
+table{
+    margin: auto;
+    font-size: 90px;
+}
+img{
+    width: 300px;
+ border-radius: 30px;
+    
+}
+td,th  {
+    border: rgb(0, 0, 0) solid 5px
+}
+td:hover{
+border: rgb(224, 224, 224) solid 5px;
+background-color: #bea5fa;}
+th:hover{
+    border: rgb(224, 224, 224) solid 5px;
+background-color: #bea5fa;}
+}
